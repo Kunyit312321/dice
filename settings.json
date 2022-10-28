@@ -3,7 +3,7 @@
     "Account": {
         "Username": "kunyitkuning@onionmail.com",
         "Password": ""
-    },
+   },
     "Play Game": {
         "Mode": "dice",
         "Currency": "btt",
@@ -149,14 +149,14 @@
         },
         "Martingale": {
             "Status": "ON",
-            "Preroll": "16",
+            "Preroll": "92",
             "Chance to Win": {
-                "Min": "5",
-                "Max": "5"
+                "Min": "1",
+                "Max": "1"
             },
             "Increase bet after": {
                 "Win": "0",
-                "Lose": "1.056"
+                "Lose": "1.012"
             },
             "Reset to base if": {
                 "Win": "0",
